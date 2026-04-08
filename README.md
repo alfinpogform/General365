@@ -1,6 +1,4 @@
-<div align=center><h1>
-    🧩 General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
-</h1></div>
+# 🧩 General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
 
 
 <p align="center">
