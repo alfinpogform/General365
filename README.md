@@ -1,5 +1,5 @@
 <div align=center><h1>
-    🧩 General365: Benchmarking General Reasoning in LLMs under High Difficulty and Diversity
+    🧩 General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
 </h1></div>
 
 
