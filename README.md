@@ -1,4 +1,4 @@
-# 🧩 General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
+## 🧩 General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
 
 
 <p align="center">
