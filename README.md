@@ -22,7 +22,6 @@ Current benchmarks for general reasoning face several challenges: a lack of diff
 
 Consequently, we introduce **General365**, a manually curated benchmark characterized by high challenge and high diversity, aiming to facilitate more effective evaluation of reasoning capabilities in frontier models.
 To ensure the impartiality of the evaluation, we have released only half of the total questions. The remaining questions are maintained as a held-out test set to track potential data contamination within the open-source part.
-If you would like to add your model to the leaderboard on the full evaluation set, please feel free to contact us via [Email](anshengnan@meituan.com) or [WeChat](./figures/wechat.png).
 
 
 ## 🌟 Key Features
