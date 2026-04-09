@@ -19,9 +19,9 @@ We define general knowledge as knowledge within the K-12 scope (such as common s
 Compared to domain-specific reasoning (e.g., Math Reasoning), general reasoning evaluation better decouples a model’s reasoning capability from its knowledge dependence.
 This enables a more precise assessment of reasoning skills rather than rote memorization, while testing the generalization of a model's reasoning abilities across broader scenarios.
 Current benchmarks for general reasoning face several challenges: a lack of difficulty, insufficient diversity, or overly synthetic characteristics.
-
 Consequently, we introduce **General365**, a manually curated benchmark characterized by high challenge and high diversity, aiming to facilitate more effective evaluation of reasoning capabilities in frontier models.
-To ensure the impartiality of the evaluation, we have released only half of the total questions. The remaining questions are maintained as a held-out test set to track potential data contamination within the open-source part.
+
+> To ensure the impartiality of the evaluation, we have released only half of the total questions. The remaining questions are maintained as a held-out test set to track potential data contamination within the open-source part.
 
 
 ## 🌟 Key Features
