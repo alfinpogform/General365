@@ -36,7 +36,7 @@ the-art models barely achieve a "passing" level of performance on these challeng
 dataset measures a model’s reasoning capabilities rather than knowledge retrieval.
 - **Rigorous Quality Control:** All instances have undergone manual review to ensure the highest standards of quality.
 - **Accurate Scoring:** We implemented a hybrid scoring algorithm combining rule-based and model-based approaches,
-achieving a manually verified scoring accuracy of 99.59%.
+achieving a manually verified scoring accuracy of 99.6%.
 
 
 ## 🏆 Leaderboard
