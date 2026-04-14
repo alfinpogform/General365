@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  📃 <a href="https://general365.github.io/" target="_blank">Paper</a > • 🌐 <a href="https://general365.github.io/" target="_blank">Project Page</a > • 🏆 <a href="https://general365.github.io/#Leaderboard" target="_blank">Leaderboard</a > • 
+  📃 <a href="https://arxiv.org/abs/2604.11778" target="_blank">Paper</a > • 🌐 <a href="https://general365.github.io/" target="_blank">Project Page</a > • 🏆 <a href="https://general365.github.io/#Leaderboard" target="_blank">Leaderboard</a > • 
   🤗 <a href="https://huggingface.co/datasets/meituan-longcat/General365_Public"_blank">Dataset</a >
   <br>
 </p >
@@ -89,7 +89,15 @@ Evaluation results will be saved under the  `./grading_results/` directory.
 ## 🔎 Citation
 If you find our work helpful or relevant to your research, please kindly cite our paper:
 ```
-    General365 Paper
+@misc{general365benchmark,
+      title={General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks}, 
+      author={Junlin Liu and Shengnan An and Shuang Zhou and Dan Ma and Shixiong Luo and Ying Xie and Yuan Zhang and Wenling Yuan and Yifan Zhou and Xiaoyu Li and Ziwen Wang and Xuezhi Cao and Xunliang Cai},
+      year={2026},
+      eprint={2604.11778},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.11778}, 
+}
 ```
 
 ## 🤗 Acknowledgement
